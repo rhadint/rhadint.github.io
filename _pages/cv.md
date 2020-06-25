@@ -22,7 +22,7 @@ Work experience
 Research Interests and Skills
 ======
 * **Main Focus**: Risk Assessment and Analysis, Risk Governance, Data Science for Disaster, Mixed-Method Research, Risk Communication, Modeling and Simulation, Impact Assessment and Analysis
-* ***Actual* Skill**: Data Visualization, Data Analysis, Database Optimization and Architecture, Geographic Information Systems
+* ***Actual* Skill**: Data Visualization, Data Analysis and Business Intelligence, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
 
 Publications
 ======
