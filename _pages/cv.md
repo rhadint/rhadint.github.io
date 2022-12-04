@@ -11,28 +11,24 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Information Technology in Informatics Engineering, [PENS](https://www.pens.ac.id/), 2016
-* Master of Informatics in Social Informatics, Kyoto University, 2020
-* Ph.D in Social Informatics, Kyoto University, 2023 (expected)
+* PhD in Social Informatics, Kyoto University, 2023 (*expected*)
+* Master of Informatics in Social Informatics (M.Inf.), Kyoto University, 2020
+* Bachelor of Information Technology in Informatics Engineering (B.Inf.Tech.), [PENS](https://www.pens.ac.id/), 2016
 
-Work experience
+Current Project(s)
 ======
-* **Database Administrator**, [Xtremax, Pte., Ltd.](https://www.xtremax.com/) (May 2016 - Oct 2018)
+* **DRS-SSDRG DPRI Kyoto University**: [Sakurajima Disaster Prevention Workshop for Kagoshima City Residents](https://www.dpri.kyoto-u.ac.jp/en/) (Mar 2022 - Jan 2023)
+* **JRU-VDDR DPRI Kyoto University**: [Joint Research Unit for Volcanic Disaster Risk Reduction](https://www.dpri.kyoto-u.ac.jp/vdrr_en/) (Dec 2021 - Mar 2023)
+
+Work experiences
+======
+* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Dec 2022)
+* **Office / Teaching Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (May 2018 - Mar 2021)
+* **Database Administrator**, [Xtremax, Pte., Ltd.](https://www.xtremax.com/) (May 2016 - Oct 2017)
 
 Research Interests and Skills
 ======
-* **Main Focus**: Risk Assessment and Analysis, Risk Governance, Data Science for Disaster, Mixed-Method Research, Risk Communication, Modeling and Simulation, Impact Assessment and Analysis
-* ***Actual* Skill**: Data Visualization, Data Analysis and Business Intelligence, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
+* **Main Focus**: Risk Assessment and Analysis, Disaster Risk Governance and Management, Cascading and Compunding Disasters, Modeling and Simulations, Decision Making under Uncertainty and Decision Support Systems, and Extreme Value Analysis
+* ***Actual* Skill**: Programming, Data Visualization, Data Analysis and Business Intelligence, Data Science and Machine Learning, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+[Download latest CV](https://drive.google.com/file/d/1-8ESDagkYIXbQjO89Gw_u70MoOp6igpw/view?usp=share_link)
