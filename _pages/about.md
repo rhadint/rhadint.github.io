@@ -14,13 +14,13 @@ Experienced in various **programming languages** (*C, C++, C#, Java, Javascript,
 
 [Download latest CV](https://rhadint.github.io/cv/)
 
-Latest Publications ~(*all publications are listed in CV*)~
+Latest Publications <sub>(*all publications are listed in CV*)</sub>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Latest Talks ~(*all talks are listed in CV*)~
+Latest Talks <sub>(*all talks are listed in CV*)</sub>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
