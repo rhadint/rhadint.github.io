@@ -12,4 +12,4 @@ We simulated the Taisho (1914) eruption of Sakurajima volcano under various weat
 
 [Download paper here](http://dx.doi.org/10.5194/essd-14-5309-2022)
 
-Recommended citation: Rahadianto, H., Tatano, H., Iguchi, M., Tanaka, H. L., Takemi, T., and Roy, S.: Long-term ash dispersal dataset of the Sakurajima Taisho eruption for ashfall disaster countermeasure, Earth Syst. Sci. Data, 14, 5309–5332, 2022.
+<!-- Recommended citation: Rahadianto, H., Tatano, H., Iguchi, M., Tanaka, H. L., Takemi, T., and Roy, S.: Long-term ash dispersal dataset of the Sakurajima Taisho eruption for ashfall disaster countermeasure, Earth Syst. Sci. Data, 14, 5309–5332, 2022. -->
