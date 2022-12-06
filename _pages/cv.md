@@ -28,7 +28,7 @@ Work experience(s)
 
 Research Interests and Skills
 ======
-* **Main Focus**: Risk Assessment and Analysis, Disaster Risk Governance and Management, Cascading and Compunding Disasters, Modelling and Simulations, Decision Making under Uncertainty and Decision Support Systems, and Extreme Value Analysis
+* **Main Focus**: Cascading and Complex Disasters, Modelling and Simulations, Risk Assessment and Analysis, Disaster Risk Governance and Management, Decision Making under Uncertainty and Decision Support Systems, and Extreme Value Analysis
 * ***Actual* Skills**: Programming, Data Visualization, Data Analysis and Business Intelligence, Data Science and Machine Learning, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
 
 [Download latest CV](https://drive.google.com/file/d/1-8ESDagkYIXbQjO89Gw_u70MoOp6igpw/view?usp=share_link)
