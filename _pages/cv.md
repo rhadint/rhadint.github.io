@@ -13,17 +13,17 @@ Education
 ======
 * PhD in Social Informatics, Kyoto University, 2023 (*expected*)
 * Master of Informatics (M.Inf.) in Social Informatics, Kyoto University, 2020
-* Bachelor of Information Technology (B.Inf.Tech.) in Informatics Engineering, [PENS](https://www.pens.ac.id/), 2016
+* Bachelor of Information Technology (B.Inf.Tech.) in Informatics Engineering, [EEPIS](https://www.pens.ac.id/), 2016
 
 Current Project(s)
 ======
-* **DRS-SSDRG DPRI Kyoto University**: [Sakurajima Disaster Prevention Workshop for Kagoshima City Residents](https://www.dpri.kyoto-u.ac.jp/en/) (Mar 2022 - Jan 2023)
-* **JRU-VDDR DPRI Kyoto University**: [Joint Research Unit for Volcanic Disaster Risk Reduction](https://www.dpri.kyoto-u.ac.jp/vdrr_en/) (Dec 2021 - Mar 2023)
+* **Ministry of Education, Culture, Sports, Science and Technology (MEXT)**: [Program for The Advanced Studies of Climate Change Projections](https://www.jamstec.go.jp/sentan/eng/program/index.html) (Apr 2023 - present)
+* **DRS-SSDRG DPRI Kyoto University**: [Sakurajima Disaster Prevention Workshop for Kagoshima City Residents](https://www.dpri.kyoto-u.ac.jp/en/) (Mar 2022 - present)
+* **JRU-VDDR DPRI Kyoto University**: [Joint Research Unit for Volcanic Disaster Risk Reduction](https://www.dpri.kyoto-u.ac.jp/vdrr_en/) (Dec 2021 - present)
 
 Work experience(s)
 ======
-* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Dec 2022)
-* **Office / Teaching Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (May 2018 - Mar 2021)
+* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Feb 2022)
 * **Database Administrator**, [Xtremax, Pte., Ltd.](https://www.xtremax.com/) (May 2016 - Oct 2017)
 
 Research Interests and Skills
