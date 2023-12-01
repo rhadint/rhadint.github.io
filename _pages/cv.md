@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Social Informatics, Kyoto University, 2023 (*expected*)
+* PhD in Social Informatics, Kyoto University, 2023
 * Master of Informatics (M.Inf.) in Social Informatics, Kyoto University, 2020
 * Bachelor of Information Technology (B.Inf.Tech.) in Informatics Engineering, [EEPIS](https://www.pens.ac.id/), 2016
 
@@ -23,12 +23,13 @@ Current Project(s)
 
 Work experience(s)
 ======
-* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Feb 2022)
+* **Program-Specific Researcher**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://www.dpri.kyoto-u.ac.jp/member_en/) (June 2020 - Feb 2022)
+* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Feb 2023)
 * **Database Administrator**, [Xtremax, Pte., Ltd.](https://www.xtremax.com/) (May 2016 - Oct 2017)
 
 Research Interests and Skills
 ======
 * **Main Focus**: Cascading and Complex Disasters, Modelling and Simulations, Risk Assessment and Analysis, Disaster Risk Governance and Management, Decision Making under Uncertainty and Decision Support Systems, and Extreme Value Analysis
-* ***Actual* Skills**: Programming, Data Visualization, Data Analysis and Business Intelligence, Data Science and Machine Learning, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
+* **Expertise**: Programming, Data Visualization, Data Analysis and Business Intelligence, Data Science and Machine Learning, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
 
 [Download latest CV](https://drive.google.com/file/d/1-8ESDagkYIXbQjO89Gw_u70MoOp6igpw/view?usp=share_link)
