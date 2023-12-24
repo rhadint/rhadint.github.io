@@ -20,7 +20,6 @@ Current Project(s)
 ======
 
 * **Ministry of Education, Culture, Sports, Science and Technology (MEXT)**: [Program for The Advanced Studies of Climate Change Projections](https://www.jamstec.go.jp/sentan/eng/program/index.html) (Apr 2023 - present)
-* **DRS-SSDRG DPRI Kyoto University**: [Sakurajima Disaster Prevention Workshop for Kagoshima City Residents](https://www.dpri.kyoto-u.ac.jp/en/) (Mar 2022 - Aug 2023)
 * **JRU-VDDR DPRI Kyoto University**: [Joint Research Unit for Volcanic Disaster Risk Reduction](https://www.dpri.kyoto-u.ac.jp/vdrr_en/) (Dec 2021 - present)
 
 Work experience(s)
