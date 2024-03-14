@@ -3,7 +3,7 @@ title: " Detecting Anomalies in Volcanic Ashfall Forecast during Large Eruptions
 collection: publications
 permalink: /publication/2023-04-21-detecting-anomalies-in-volcanic-ashfall-forecast
 excerpt: 'Book Chapter in the Special Volume of the Springer ASTI Series (Advances in Natural Hazards and Volcanic Risks: Shaping a Sustainable Future): Proceedings of the 3rd International Workshop on Natural Hazards (NATHAZ22)'
-date: 2022-05-27
+date: 2023-04-21
 venue: 'Advances in Natural Hazards and Volcanic Risks: Shaping a Sustainable Future: Proceedings of the 3rd International Workshop on Natural Hazards (NATHAZ22)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-031-25042-2_15'
 citation: 'Rahadianto, H., Roy, S., Takemi, T., Iguchi, M., Tatano, H. (2023). Detecting Anomalies in Volcanic Ashfall Forecast During Large Volcanic Eruptions: Sakurajima Taisho Eruption Case. In: Malheiro, A., Fernandes, F., Chaminé, H.I. (eds) Advances in Natural Hazards and Volcanic Risks: Shaping a Sustainable Future. NATHAZ 2022. Advances in Science, Technology & Innovation. Springer, Cham. https://doi.org/10.1007/978-3-031-25042-2_15'

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* PhD in Social Informatics, Kyoto University, 2023
+* PhD in Social Informatics, Kyoto University, 2024
 * Master of Informatics (M.Inf.) in Social Informatics, Kyoto University, 2020
 * Bachelor of Information Technology (B.Inf.Tech.) in Informatics Engineering, [EEPIS](https://www.pens.ac.id/), 2016
 
@@ -26,13 +26,13 @@ Work experience(s)
 ======
 
 * **Program-Specific Researcher**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://www.dpri.kyoto-u.ac.jp/member_en/) (Apr 2023 - present)
-* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (June 2020 - Feb 2023)
+* **Graduate Research Assistant**, [Disaster Prevention Research Institute (DPRI), Kyoto University](https://imdr.dpri.kyoto-u.ac.jp/) (Jun 2020 - Feb 2023)
 * **Database Administrator**, [Xtremax, Pte., Ltd.](https://www.xtremax.com/) (May 2016 - Oct 2017)
 
 Research Interests and Skills
 ======
 
-* **Main Focus**: Cascading and Complex Disasters, Modelling and Simulations, Risk Assessment and Analysis, Disaster Risk Governance and Management, Decision Making under Uncertainty and Decision Support Systems, and Extreme Value Analysis
-* **Expertise**: Programming, Data Visualization, Data Analysis and Business Intelligence, Data Science and Machine Learning, Database Optimization and Architecture, Geographic Information Systems, System Administration and Engineering
+* **Main Focus**: Risk Assessment and Analysis, Disaster Risk Governance and Management, Modelling and Simulations, Decision Making under Uncertainty and Decision Support Systems, Cascading and Complex Disasters, and Extreme Value Analysis
+* **Expertise**: Programming, System Administration and Engineering, Database Optimization and Architecture, Data Analysis and Business Intelligence, Data Science and Machine Learning, Geographic Information Systems, and Data Visualization
 
-[Download latest CV](https://drive.google.com/file/d/1-8ESDagkYIXbQjO89Gw_u70MoOp6igpw/view?usp=share_link)
+[Download latest CV](https://drive.google.com/file/d/1j2yq8IINnhzJC3-vx1Hf2eyY0_3VJ1ut/view?usp=sharing)

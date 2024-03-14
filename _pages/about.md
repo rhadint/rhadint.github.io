@@ -13,7 +13,7 @@ A seasoned generalist striving to create a better world by developing solutions 
 
 Has professional experiences in administration and optimization of databases and data warehouses (*Oracle, MySQL, PostgreSQL, MSSQL, MongoDB, Elasticsearch, REDIS, Redshift, BigQuery*), operations of parallel and distributed computing (*Sparks, Hadoop*), systems / site reliability engineering for variety of server-side microservices, architecture and cloud infrastructures (*AWS, GCP*), and software engineering with various programming languages (*C, C++, C#, Java, Javascript, PHP, Ruby, Fortran, Golang*), but now mostly do data science and machine learning (*Python, R, and Julia*). Love to mingle with Geographic Information Sciences and Data Visualization. Outside of research, he preferred to cooks (un)healthy meals, hike mountains, play football, do cycling, and take billons of photos.
 
-*Latest updates: 18 December 2023*
+*Latest updates: 14 March 2024*
 [Download latest CV](https://rhadint.github.io/cv/)
 
 Latest Publications
