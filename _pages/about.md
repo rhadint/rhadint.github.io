@@ -35,7 +35,6 @@ As an avid explorer, when he's not knee-deep in data or research, he’s likely:
 [Download latest CV](https://rhadint.github.io/cv/)
 
 Latest Publications
-
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -44,7 +43,6 @@ Latest Publications
   *(older publications are listed in CV)*
 
 Latest Talks
-
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
