@@ -9,14 +9,33 @@ redirect_from:
   - /portfolio/
 ---
 
-A seasoned generalist striving to create a better world by developing solutions to coexist with natural disasters. Currently working on developing flexible adaptation strategies to address future changes in hazards and society. His focus is on advancing and integrating weather-related disaster and water resource modelling to project future extremes for climate disaster risk information. Experienced in flood risk assessment and analysis, development of Tsunami evacuation mechanisms for individuals with disabilities, and disaster risk governance for volcanic ash hazards from large-scale explosive eruptions. His areas of expertise encompass the simulation of volcanic ash transport and dispersal models, development of decision support systems, analysis of dynamic decision-making under uncertainty, disaster impact assessment, disaster risk analysis and evaluation, bias correction of predictive and machine learning models, and development of advanced anomaly detection and extreme value analysis.
+A **seasoned generalist** passionate about building a more resilient world—one that can better *coexist with disasters*. Currently contributing to the **Joint-Exchange of Data and Information on Critical Infrastructure (JEDI-CI) project**, a collaborative initiative under the *Science and Technology Agreement between Sweden and the United States* for Security and Resilience. His work focuses on understanding **critical infrastructure interdependencies**, enhancing **preparedness**, and boosting **resilience** against evolving multi-hazards and hybrid crises.
 
-Has professional experiences in administration and optimization of databases and data warehouses (*Oracle, MySQL, PostgreSQL, MSSQL, MongoDB, Elasticsearch, REDIS, Redshift, BigQuery*), operations of parallel and distributed computing (*Sparks, Hadoop*), systems / site reliability engineering for variety of server-side microservices, architecture and cloud infrastructures (*AWS, GCP*), and software engineering with various programming languages (*C, C++, C#, Java, Javascript, PHP, Ruby, Fortran, Golang*), but now mostly do data science and machine learning (*Python, R, and Julia*). Love to mingle with Geographic Information Sciences and Data Visualization. Outside of research, he preferred to cooks (un)healthy meals, hike mountains, play football, do cycling, and take billons of photos.
+A technologist at heart across the full data stack, he brings hands-on experience on a strong interdisciplinary research in:
 
-*Latest updates: 14 March 2024*
+- **Analysis of Systemic Risk and Resilience** with particular focus on critical infrastructures interdependencies and protection.
+- **Disaster Risk Governance** with particular experience on volcanic ash disaster.
+- **Modeling and Simulations**.
+- Development of **Decision Support Systems** for crisis response, relief process and evacuation strategy.
+- **Dynamic Decision Making Under Uncertainty** as adaptation strategies for future climate and societal changes.
+- **Impact Assessments** and **Risk Evaluation** of natural hazards and disaster.
+- **Application of Machine Learning** and **Artificial Intelligence** for risk management.  
+- **Extreme Value Analysis** and **Anomaly Detection**.
+- **Geographic Information Science (GIS)** and **Data Visualization**
+- **Database Administration**, **System Engineering** and **Programming**
+
+As an avid explorer, when he's not knee-deep in data or research, he’s likely:
+
+- Cooking (and BBQ-ing) *both healthy and guilty-pleasure meals*.
+- Hiking and camping with cycling *across countries and continents*.
+- Playing football and futsal outside, board and video (both console and computer) games inside.
+- Capturing life’s moments and extraordinary scenery through a *billion photos*
+
+*Latest updates: 05 June 2025*
 [Download latest CV](https://rhadint.github.io/cv/)
 
 Latest Publications
+
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -25,6 +44,7 @@ Latest Publications
   *(older publications are listed in CV)*
 
 Latest Talks
+
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}

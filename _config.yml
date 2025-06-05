@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haris Rahadianto's page"
 title_separator          : "-"
 name                     : &name "Haris Rahadianto"
-description              : &description "Researcher at Kyoto University, Japan"
+description              : &description "Postdoctoral Researcher at Lund University, Sweden"
 url                      : https://rhadint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhadint/rhadint.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Haris Rahadianto"
   avatar           : "new_profile.png"
-  bio              : Research Fellow at <a href="http://imdr.dpri.kyoto-u.ac.jp/">Tatano Lab</a>, <a href="http://www.dpri.kyoto-u.ac.jp/en/">Disaster Prevention Research Institute (DPRI), Kyoto University</a>
-  location         : "Kyoto, Japan"
-  email            : "haris@imdr.dpri.kyoto-u.ac.jp"
+  bio              : Postdoctoral Researcher at <a href="https://www.buildtech.lth.se/risk-management-and-societal-safety">Division of Risk Management and Societal Safety</a>, <a href="https://www.lth.se/english/"> LTH, Lund University</a>
+  location         : "Lund, Sweden"
+  email            : "haris.rahadianto@risk.lth.se"
   employer         : #<a href="http://www.dpri.kyoto-u.ac.jp/en/">DPRI</a>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   orcid            : "http://orcid.org/0000-0003-0704-7816"

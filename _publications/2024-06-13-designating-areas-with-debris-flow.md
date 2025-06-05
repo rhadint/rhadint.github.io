@@ -1,0 +1,15 @@
+---
+title: "Designating Areas with Debris Flow Potentials as Secondary Evacuation Zones Anticipating Massive Ash Fallout From a Large Volcanic Eruption"
+collection: publications
+permalink: /publication/2024-06-13-designating-areas-with-debris-flow
+excerpt: 'The interplay between volcanic ash and extreme weather events creates a complex scenario that necessitates further investigation to understand the potential risks and devise strategies to reduce them. Volcanic ash deposition in river catchments carries the risk of triggering debris flows when mixed with heavy rainfall. To mitigate such risk, we proposed the creation of comprehensive evacuation zones encompassing both direct and cascading effects of volcanic ash hazards. This research incorporates ash dispersal simulations during severe weather to emphasize the need of the creation of such evacuation zones. The study revealed that the number of people at risk increases significantly, particularly in unaddressed areas vulnerable to debris flow, when a rainfall event promptly follows a large eruption. Therefore, it is essen tial to incorporate the entire population at risk by implementing additional evacuation zones in areas prone to debris flow to mitigate the impacts effectively.'
+date: 2024-06-13
+venue: 'INTERPRAEVENT2024'
+paperurl: 'https://www.interpraevent.at/en/proceeding/proceedings-ip-2024'
+citation: 'Rahadianto, H., Tatano, H., & Iguchi, M. (2024). Designating Areas with Debris Flow Potentials as Secondary Evacuation Zones Anticipating Massive Ash Fallout From a Large Volcanic Eruption.  In: Schneider, J. (eds): INTERPRAEVENT2024 Conference Proceedings. International Research Society INTERPRAEVENT.'
+---
+The interplay between volcanic ash and extreme weather events creates a complex scenario that necessitates further investigation to understand the potential risks and devise strategies to reduce them. Volcanic ash deposition in river catchments carries the risk of triggering debris flows when mixed with heavy rainfall. To mitigate such risk, we proposed the creation of comprehensive evacuation zones encompassing both direct and cascading effects of volcanic ash hazards. This research incorporates ash dispersal simulations during severe weather to emphasize the need of the creation of such evacuation zones. The study revealed that the number of people at risk increases significantly, particularly in unaddressed areas vulnerable to debris flow, when a rainfall event promptly follows a large eruption. Therefore, it is essen tial to incorporate the entire population at risk by implementing additional evacuation zones in areas prone to debris flow to mitigate the impacts effectively.
+
+[Download the proceedings here](https://www.interpraevent.at/en/proceeding/proceedings-ip-2024)
+
+<!-- Recommended citation: Rahadianto, H., Tatano, H., Iguchi, M., Tanaka, H. L., Takemi, T., and Roy, S.: Long-term ash dispersal dataset of the Sakurajima Taisho eruption for ashfall disaster countermeasure, Earth Syst. Sci. Data, 14, 5309–5332, 2022. -->
