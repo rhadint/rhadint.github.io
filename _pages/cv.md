@@ -42,4 +42,4 @@ Research Interests and Expertise
 * **Main Focus**: Critical Infrastructure Protection, Systemic Risk and Resilience, Risk Assessment and Analysis, Disaster Risk Governance and Management, Modelling and Simulations, Decision Making under Uncertainty, Decision Support Systems, Cascading and Complex Disasters and Extreme Value Analysis.
 * **Expertise**: Programming, System Administration and Engineering, Database Optimization and Architecture, Data Analysis and Business Intelligence, Data Science and Machine Learning, Geographic Information Systems, and Data Visualization.
 
-[Download latest CV](https://drive.google.com/file/d/1yfg3kYoJtcTfIv1cAfdRiqGmlFletTd2/view)
+[Download latest CV](https://drive.google.com/file/d/1TzzyOIaeSviRZzvozfsHjcOuQ4LLAyVO/view?usp=sharing)

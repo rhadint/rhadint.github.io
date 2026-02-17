@@ -19,19 +19,19 @@ A technologist at heart across the full data stack, he brings hands-on experienc
 - Development of **Decision Support Systems** for crisis response, relief process and evacuation strategy.
 - **Dynamic Decision Making Under Uncertainty** as adaptation strategies for future climate and societal changes.
 - **Impact Assessments** and **Risk Evaluation** of natural hazards and disaster.
-- **Application of Machine Learning** and **Artificial Intelligence** for risk management.  
+- **Application of Machine Learning** and **Artificial Intelligence** for risk management.
 - **Extreme Value Analysis** and **Anomaly Detection**.
 - **Geographic Information Science (GIS)** and **Data Visualization**
 - **Database Administration**, **System Engineering** and **Programming**
 
 As an avid explorer, when he's not knee-deep in data or research, he’s likely:
 
-- Cooking (and BBQ-ing) *both healthy and guilty-pleasure meals*.
-- Hiking and camping with cycling *across countries and continents*.
-- Playing football and futsal outside, board and video (both console and computer) games inside.
-- Capturing life’s moments and extraordinary scenery through a *billion photos*
+- Cooking (and BBQ-ing) *healthy, guilty-pleasure meals*.
+- Hiking, camping and cycling *across countries and continents*.
+- Playing sports, and e-sports.
+- Capturing life’s moments and extraordinary scenery.
 
-*Latest updates: 05 June 2025*
+*Latest updates: 19 February 2026*
 [Download latest CV](https://rhadint.github.io/cv/)
 
 Latest Publications
