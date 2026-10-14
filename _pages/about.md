@@ -9,29 +9,28 @@ redirect_from:
   - /portfolio/
 ---
 
-A **seasoned generalist** passionate about building a more resilient world—one that can better *coexist with disasters*. Currently contributing to the **Joint-Exchange of Data and Information on Critical Infrastructure (JEDI-CI) project**, a collaborative initiative under the *Science and Technology Agreement between Sweden and the United States* for Security and Resilience. His work focuses on understanding **critical infrastructure interdependencies**, enhancing **preparedness**, and boosting **resilience** against evolving multi-hazards and hybrid crises.
+A **seasoned generalist** passionate about building a more resilient world that can better *coexist with disasters*. Currently contributing to the **Joint-Exchange of Data and Information on Critical Infrastructure (JEDI-CI) project**, a collaborative initiative under the *Science and Technology Agreement between Sweden and the United States* for Security and Resilience. His work focuses on understanding **critical infrastructure interdependencies**, enhancing **preparedness**, and boosting **resilience** against evolving multi-hazards and hybrid threats.
 
-A technologist at heart across the full data stack, he brings hands-on experience on a strong interdisciplinary research in:
+A technologist at heart with research experience and an interest in interdisciplinary research, focusing on:
 
-- **Analysis of Systemic Risk and Resilience** with particular focus on critical infrastructures interdependencies and protection.
-- **Disaster Risk Governance** with particular experience on volcanic ash disaster.
+- **Systemic Risk and Resilience**.
+- **Disaster Risk Governance**.
 - **Modeling and Simulations**.
-- Development of **Decision Support Systems** for crisis response, relief process and evacuation strategy.
-- **Dynamic Decision Making Under Uncertainty** as adaptation strategies for future climate and societal changes.
-- **Impact Assessments** and **Risk Evaluation** of natural hazards and disaster.
-- **Application of Machine Learning** and **Artificial Intelligence** for risk management.
+- **Decision Support Systems**.
+- **Dynamic Decision Making Under Uncertainty**.
+- **Impact Assessments** & **Risk Analysis** of Natural Hazards.
+- **Application of Machine Learning** and **Artificial Intelligence** for disaster risk management.
 - **Extreme Value Analysis** and **Anomaly Detection**.
-- **Geographic Information Science (GIS)** and **Data Visualization**
-- **Database Administration**, **System Engineering** and **Programming**
+- **Geographic Information Science (GIS)** and **Data Visualization**.
+- **Database Administration**, **System Engineering** and **Scientific Programming**.
 
 As an avid explorer, when he's not knee-deep in data or research, he’s likely:
 
-- Cooking (and BBQ-ing) *healthy, guilty-pleasure meals*.
-- Hiking, camping and cycling *across countries and continents*.
-- Playing sports, and e-sports.
+- Hiking, camping and cycling.
+- Playing sports and e-sports.
 - Capturing life’s moments and extraordinary scenery.
 
-*Latest updates: 19 February 2026*
+*Latest updates: 14 October 2026*
 [Download latest CV](https://rhadint.github.io/cv/)
 
 Latest Publications

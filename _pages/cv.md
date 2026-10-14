@@ -19,7 +19,7 @@ Education
 Current Project
 ======
 
-* **Swedish Civil Contingencies Agency (MSB)**: [Joint-Exchange of Data and Information on Critical Infrastructure (JEDI-CI)](https://portal.research.lu.se/en/projects/joint-exchange-of-data-and-information-on-critical-infrastructure) (Apr 2025 - present)
+* **Swedish Total Defense and Resilience Agency (MCF)**: [Joint-Exchange of Data and Information on Critical Infrastructure (JEDI-CI)](https://portal.research.lu.se/en/projects/joint-exchange-of-data-and-information-on-critical-infrastructure) (Apr 2025 - present)
 
 Older Projects
 ======
@@ -39,7 +39,7 @@ Professional Experiences
 Research Interests and Expertise
 ======
 
-* **Main Focus**: Critical Infrastructure Protection, Systemic Risk and Resilience, Risk Assessment and Analysis, Disaster Risk Governance and Management, Modelling and Simulations, Decision Making under Uncertainty, Decision Support Systems, Cascading and Complex Disasters and Extreme Value Analysis.
+* **Main Focus**: Critical Infrastructure Resilience, Systemic Risk and Resilience, Risk Assessment and Analysis, Disaster Risk Governance and Management, Modelling and Simulations, Decision Making under Uncertainty, Decision Support Systems, Cascading and Complex Disasters and Extreme Value Analysis.
 * **Expertise**: Programming, System Administration and Engineering, Database Optimization and Architecture, Data Analysis and Business Intelligence, Data Science and Machine Learning, Geographic Information Systems, and Data Visualization.
 
-[Download latest CV](https://drive.google.com/file/d/1TzzyOIaeSviRZzvozfsHjcOuQ4LLAyVO/view?usp=sharing)
+[Download latest CV](https://drive.google.com/file/d/1j2yq8IINnhzJC3-vx1Hf2eyY0_3VJ1ut/view?usp=sharing)
